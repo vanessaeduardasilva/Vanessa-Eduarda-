@@ -20,7 +20,7 @@
 Busco evoluir minhas habilidades todos os dias, especialmente em Python e Java, para construir soluções inovadoras e eficientes.  
 
 ## 🌐 Conecte-se Comigo  
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/vanessa-eduarda-silva-cunha-0791a9309/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-eduarda-silva-cunha-0791a9309/)
 
 ### 📊 Meus Projetos  
 - [IrrigaTech](#): Automação sustentável para irrigação.  
