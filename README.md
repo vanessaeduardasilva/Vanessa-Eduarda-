@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Vanessa!  
 
-🌟 **Estudante de Engenharia da Computação**  
+🌟 **Estudante de Engenharia de Software**  
 🌱 Explorando programação, IoT e automação.  
 🚀 Líder do projeto [IrrigaTech](#) – inovação em irrigação sustentável.  
 ☕ Movida a café (e boas ideias)!  
